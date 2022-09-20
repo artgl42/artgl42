@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Artem
-- 👀 I'm looking for a job
 - 📫 How to reach me: artgl.net@gmail.com
 
 <!---
